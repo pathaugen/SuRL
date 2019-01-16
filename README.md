@@ -8,11 +8,11 @@ SuRL
 SuRL: Suricata Rule Loader - Provides a web-based front-end for deploying out Suricata Rules.
 
 Features:
-* [ ] Golang utilized for single binary without dependencies
-* [ ] Console Application
-* [ ] Console color support
-* [ ] Application splash logo
-* [ ] Testing framework
+* [x] Golang utilized for single binary without dependencies
+* [x] Console Application
+* [x] Console color support
+* [x] Application splash logo
+* [x] Testing framework
 
 Installation and Running (from a directory of your choice):
 * > $ git clone https://github.com/pathaugen/SuRL
